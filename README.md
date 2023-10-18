@@ -15,6 +15,7 @@ This is the implementation of JS class to store and manipulate with big hex numb
 
 ## Project Setup
 
+### Install dependencies
 ```sh
 npm install
 ```
